@@ -1,4 +1,5 @@
 canvas {
   display: flex;
-  position: center;
+  align-items: center;
+  justify-content: center;
 }
