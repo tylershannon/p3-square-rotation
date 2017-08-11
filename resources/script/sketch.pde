@@ -1,15 +1,3 @@
-/*
-void setup(){
-  size(300,300);
-  noFill();
-}
-
-void draw(){
-  background(220);
-  ellipse(mouseX,mouseY,75,75);
-}
-*/
-
 import controlP5.*;
 ControlP5 cp5;
 
