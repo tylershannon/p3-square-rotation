@@ -1,3 +1,7 @@
+html {
+  align-content: center;
+}
+
 canvas {
   display: flex;
   align-items: center;
