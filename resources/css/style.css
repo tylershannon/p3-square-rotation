@@ -5,6 +5,7 @@ html, body {
 body {
   margin: atuo;
   display: flex;
+  flex-direction: column;
 
   /* This centers our sketch horizontally. */
   /*justify-content: center;  */
